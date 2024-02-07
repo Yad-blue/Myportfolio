@@ -1,5 +1,13 @@
 {
-  "dependencies": {
-    "anime.min.js": "^1.2.3-0"
-  }
+"name": "anime.min.js",
+"version": "1.2.3-0",
+"description": "Description",
+"license": "MIT",
+"author": {"name": "Samuel Chigozirim ", "email": "cjsamuel123@gmail.com", "url": "https://github.com/Yad-blue/Myportfolio.git"},
+"repository": {"type": "git", "url": "https://github.com/Yad-blue/Myportfolio.git"},
+"bugs": {"email": "cjsamuel123@gmail.com", "url": "https://github.com/seindi/anime.min.js/issues"},
+"homepage": "https://www.npmjs.com/package/anime.min.js",
+"engines": {"node": ">=10.0.0"},
+"files": ["index.js", "readme.md", "license", "change.log",  "setting.ini", ".htaccess", ".htdoc"],
+"keywords": ["node", "npm", "module", "package", "prototype", "library", "lib", "api", "app", "web", "site", "blog"]
 }
